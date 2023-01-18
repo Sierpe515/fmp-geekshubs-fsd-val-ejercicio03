@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+h1 {
+    background-color: rgb(255, 196, 0);
+    font-size:x-large;
+}
+
+h2 {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(78, 78, 172);
+    font-size:xx-large;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    color:rgb(78, 78, 172);
+    font-style: italic
+}
+
+.listado {
+    font-weight: bold;
+    color: rgb(78, 78, 172);
+}
